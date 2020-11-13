@@ -1,2 +1,1 @@
-apt-get update -y
-apt-get install -y nginx
+yum install -y nginx
